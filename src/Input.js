@@ -1,4 +1,4 @@
-class Input {
+export class Input {
 
     constructor(text, onChange) {
         this.text = text
@@ -29,3 +29,4 @@ class Input {
     }
 
 }
+export default Input
